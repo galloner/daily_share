@@ -1,5 +1,7 @@
-
 !> 点击 <font color="#42b983" size="5em"><u><b>视频标题</b></u></font> 即可观看
+
+?> ✨ 更多内容：<font color="#ff0088" size="3em"><b><u>[Alist资源站](https://galcraft.alwaysdata.net)</u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>[Alist备用链接](https://alist.duangjj.eu.org)</u></b></font>
+
 # 2024.9
 
 ## 9/17
