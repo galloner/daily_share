@@ -9,12 +9,38 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
 <body>
+  <div class="logo2">
+    <p align="center"><img src = "https://s3.bmp.ovh/imgs/2022/05/11/b992b7366d8eae02.png" /></p>
+  </div>
+  <br />
+  <nav>
+    <a href="#/">首页</a>
+    <a href="#/2024/9/">最新</a>
+  </nav>
   <div id="app"></div>
+  <style>
+    .logo2{
+      margin: 0 auto;
+      width: 100px;
+      height: 100px;
+      background-color: rgb(233, 13, 13, 0);
+      /* 要实现旋转需要加过渡看效果 */
+      transition: all 2s;   
+    
+    }
+    .logo2:hover {
+        transform:rotate(720deg);
+        /* 90deg是顺时针转 */
+        /* transform:rotate(-90deg) */
+        /* -90deg是顺时针转 */
+  
+    }
+  </style>
   <script>
     window.$docsify = {
       name: '',
       repo: '',
-      loadNavbar: true
+      // loadNavbar: true
     }
   </script>
   <!-- Docsify v4 -->

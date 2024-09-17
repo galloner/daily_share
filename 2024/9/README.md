@@ -1,9 +1,5 @@
 # 2024.9
 
-<!-- <nav>
-    <a href="/2024/8/">8月</a>
-</nav> -->
-
 **[🔖首页](/)**
 
 ## 9/17
@@ -12,8 +8,7 @@
 
 ##### [刻晴舞蹈](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EWDbQKZ91UdNgM_IST90su0BEbPFob89tJke0Qr8R_qd_A)
 
-> - [舞蹈1](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EU-gJEsWFMVLhm7kb5O_F9oBQ4Lk61R-NcCQ6VEMBDEGnA?e=pxhBEt)
-> - [舞蹈2](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EY2E7lJsnY5AuRSxxkhODDEBnntXgSAq2fqcdkxaZfI-Ag?e=dCUcZc)
+?> [舞蹈1](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EU-gJEsWFMVLhm7kb5O_F9oBQ4Lk61R-NcCQ6VEMBDEGnA?e=pxhBEt)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[舞蹈2](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EY2E7lJsnY5AuRSxxkhODDEBnntXgSAq2fqcdkxaZfI-Ag?e=dCUcZc)
 
 ---
 
