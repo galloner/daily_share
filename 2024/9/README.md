@@ -4,6 +4,42 @@
 
 # 2024.9
 
+## 9/23（补档）
+
+
+
+## 9/22（补档）
+
+### 🎬原神
+
+#### 📹[甘雨](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/ERCiacPENVtNmEuKtp1OKP0B1wVemQ_KUl-rgaY4fHLpYA?e=Sb5bWi)
+
+#### 📹[刻晴](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EWBkknyZ3PpAiubFKhSOeqsB77RavvqEr-8ULsdGAAAKQw?e=KD6ane)
+
+#### 📹[胡桃](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/ERGYAGGmhtZEmo-hjtCTPbABpGxLA8vmMopHY22GVMvMLQ?e=FXxjBH)
+
+#### 📹[优菈](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/Eblu7KwlVuxDh91X-CFbwdUBJyW9mpOaeiKa4S4Nyw1rNA?e=QAh0MS)
+
+#### 📹[莫娜](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EXGgXqnrlB1CoISEB918JNwBVtaxPtR5aHKOFGTH75B33Q?e=oZdKNO)
+
+#### 📹[丘丘人的复仇](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EQO1dil9FN9IoMCaEkm6ZLQBZadeH8DYY7PzWvoMVstyXA?e=XVZzQn)
+
+### 🎬[崩坏三 #格雷修 #isk](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EbXigcDKkJtAnoE3jUPVKfkBrjHW89NfnGb4mRy4IonEDA?e=d58610)
+
+### 🎬#LMSK
+
+#### 📹[2131268973_696_[2022-07-02]_Double_Cowgirl-Chloe_0026_Iroha_1080.mp4](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EWsNIfeDjLNHkk0uH-ilpacBxkC9kuZFeqEsjczPnA-GPw?e=j7iZR1)
+
+#### 📹[2131268973_697_[2022-08-20]_Doggy_Style2-Iroha_1080.mp4](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/Eae0_ayHjmRGqr7DXZedUE0BeQkl3N3z0HWpqwepmboOrA?e=IPLc3A)
+
+#### 📹[2131268973_698_[2022-04-02]_Blow_Job3-Sirius_1080.mp4](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/ERvCl_EUrd1JlRvDe2dNkesB2oGYw9NKTTaxYzXwLnQcrQ?e=vRKggw)
+
+---
+
+### 🎬[鸭鸭的性教育课堂](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/ET-88HNnkGhIoM46fsoTYXcB0oJvmguhhNia_ktihskZZQ?e=P7Doix)
+
+?> ps：好涩好涩
+
 ## 9/21
 
 ### 🎬#2D #动画
