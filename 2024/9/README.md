@@ -4,9 +4,97 @@
 
 # 2024.9
 
-## 9/23（补档）
+## 9/26
 
+### 🎬[崩三](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EW3rshmvxRJFtA0M90pbxOAB70KgxRrXK0VpF4NvhXrlhg?e=0910eL)
 
+### 🎬莫娜
+
+#### 📹[2131268973_933_6174621404806252262.mp4](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/Effmk2B4vARNpk3vwsK0QTsBHfhuNhWOVbyIDjG1qKY6ag?e=jYtKID)
+
+#### 📹[2131268973_937_6174621404806252267.mp4](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/Ea1T31Gn1oZGiadj9KO_9fIBoLKCevhmCEOzZW4wPRSK2w?e=oEPrFn)
+
+#### 📹[2131268973_939_6174621404806252268.mp4](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EQLrKPPIJrVFt18-7IkIoHsBvGi2MsauMZHJ2yKQzU5ocQ?e=fIquAo)
+
+### 🎬原神
+
+#### 📹[2131268973_953_6179326837831763654.mp4](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EYSuJGqoyY9GvGgRYSEbP_wBWFZlKrgJfzPLMrlNCyXjWw?e=3TEpfP)
+
+#### 📹[2131268973_955_6179326837831763655.mp4](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EWjCNvA7cS9OqGLlqeb7gXIBvEaaQOQNUPQOfe_7uwij4A?e=l2gm4l)
+
+#### 📹[2131268973_974_6116201762157234684.mp4](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/ESvEW4GGbkFJi1EZ9UvGIyoBfvFZW-67PxOv_zGJL-RDrw?e=GKGz2O)
+
+#### 📹[沙雕视频](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/Ed-LJB1S8GFGicMYnopgAy8BcSEaDMs7Dpdy053Hw9GT3w?e=yWxUoI)
+
+#### 📹[莫娜](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EUhIpsz8R2hPgJw4y-p5s3kBQsDF-ZZ8BBQfXHnbNlAlJA?e=EcCeFl)
+
+---
+
+### 🎬[最终幻想](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/ERFs1ehH5plEp7-m4U2Aj6QBBeUyif4Pr66WfIZLUcoZRQ?e=8ZZ90X)
+
+### 🎬[不知名Galgame #人鬼](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/Edx9PT8WOFBIn8jv6hoOfhYBvvD1iKUb9gZico3SxbpDfg?e=BcPs5M)
+
+### 🎬[偶像大师](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/ETJ7uvVLaihMo57HOiERbk0BZHIG1ItSg4WZzbnklixKtw?e=aLwXHK)
+
+### 🎬[1080p_Tifa_Rave_No_Music-1](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EQ0sIV0u5D1NmjQ5Tf8bZ40BTOmfDvIIArXggaTCoUQ4Cg?e=DJh2zd)
+
+---
+
+## 9/25（补档）
+
+### 🎬原神（欧美画风真奇怪）
+
+#### 📹[2131268973_832_6116201762157234639.mp4](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/Ed2HQ_6h9pxFtQY305Uw75sBOOx-CaB8_SoW6flTZ5E3Gw?e=kIE5Wk)
+
+#### 📹[2131268973_833_6116201762157234640.mp4](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/ETjhsn_i1ilApAH-Y-CKpxUBIkBngzADbSYqAlyIVioJRA?e=aF87aa)
+
+### 🎬[雾子 #OW #4P](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/Eb0akfWBlYFIsNiZWfbnv2gBZItKaoaeH0xFSXCfV1_Xeg?e=DdUvga)
+
+### 🎬米家
+
+#### 📹[卡芙卡](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EVMivr5hmoFFtYSKkcWu09EBlkXgVyDIjA6wnAg_dDFvng?e=CPMNl7)
+
+#### 📹[罗莎利亚](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/Ef4qnfjmlU1HunRedjccPAcBsxzo6HoQw7mjJJ5zNQgvqQ?e=bazGty)
+
+#### 📹[雷电将军](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EfCrTcxRMT9IqBEYOZacWBsBhCRbmlhUstcADVhNBcDLpQ?e=UcxTuX)
+
+---
+
+### 🎬[碧蓝档案浅黄梦月](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EfiSIX2uzT5LoEtLl3EhTYgBIbVK0UnF_TA9YWVjk_ggBA?e=v24wUW)
+
+### 🎬原神胡桃剧情
+
+#### 📹[機械姦の章 第二幕 上](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EbnBUY0zYjlMvwyVticELXIB_H0LwqM00VJqc3RjaaHhXg?e=qAgEMx)
+
+#### 📹[機械姦の章 第二幕 下](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EdpSdhHLtNNMsZ2AUvXm7zMBHm375S1DUc3IOO5HAuIvSQ?e=TvSGlE)
+
+#### 📹[輪姦の章 第一幕](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/Eb3Zm3yAS9xFpbwdmn8kEmwBTg2BKqPEA7iSOqmfJOnznQ?e=mWa0Es)
+
+#### 📹[輪姦の章 第二幕](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EVTGkEl8xlZGvJVq-n_-dN8BgauXXFCxavw7VwK8cVcxQw?e=jo1mFr)
+
+#### 📹[輪姦の章 第三幕](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/ESbANhYw0gtHtRamyjqnlloBMk8bo6GRRnhoIvagafFwdA?e=ehxeF5)
+
+---
+
+## 9/24（补档）
+
+### 🎬原神
+
+#### 📹[刻晴 #子宫 #2D](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/ERLRtGuBj1xIowsLyZwjpmMB3-ifxGH39g1NhKUxujtoPg?e=YydZIK)
+
+#### 📹[刻晴 #2D](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/Eapz1FS0jnJPtfIkTayCf_IBNbzcnIxrsNLP042Cpw7-hA?e=HhWJ77)
+
+#### 📹[怪怪的剧情](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EefMcfvDAXFHspkFDKYV6uMBp1ygY9WJKWzBkiq_DN_N3A?e=rpFfNO)
+
+#### 📹[甘雨 #子宫 #2D](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EULhjlRoFcdLiaGQ9r-XLpgBN8el6SuFzudEs0_pqMm8nQ?e=GVZgMA)
+
+#### 📹人寿…
+
+- <font size="4em">[2131268973_811_6170318289957292504.mp4](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EUYkzyIMB_xNkHJJ6N68_EcBYBwHCJu3oucObm0DOWsv9Q?e=Ak2B57)</font>
+- <font size="4em">[2131268973_813_6170318289957292505.mp4](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EcrDyQqbg51BlFYPPqyGW4ABzgwqP7mxf9sauUQqNluwZw?e=GjNcOb)</font>
+- <font size="4em">[2131268973_815_6172570089770977080.mp4](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/ERVoo-FdHzZOtr9bLZn9lukBLaseFb8V2hl65gf2enlYRw?e=BVLTWs)</font>
+
+#### 📹[#扶她 #炮机](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EZTY9a5FdMVLpEVh1LtR8owBwBsEVNB7rAHOmkU2j9dBpw?e=FJU4yc)
 
 ## 9/22（补档）
 
