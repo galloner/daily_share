@@ -4,6 +4,24 @@
 
 # 2024.9
 
+## 9/27（补档）
+
+### 🎬原神
+
+#### 📹[芭芭拉1](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EUsFJK_bpvZMsv672bm-6WwB3s3orHSLX0kGeveLxkxZfQ?e=e7N2o1)
+
+#### 📹[芭芭拉2](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EZhnjuifFGBAg-nof8FALUEBre2YfrTpsdXusBHRajHPhg?e=gHFjhh)
+
+#### 📹[九条1](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EUItt6VMejhNp87P9cVaoCMBaX5R2FLLVkY4t82Mk5CDXg?e=dxi9V0)
+
+#### 📹[九条2](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/ERCsgMZzJepOoHmbuoeQjpsBRLEqGTBuVAcf9K6OoHfz7g?e=hXu8ma)
+
+#### 📹[九条3](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EUPZEVOgmrBNkJUOEO1PfvIBivSH4uvwVFGftOk8zpsJ2Q?e=EquNgG)
+
+#### 📹[九条-总](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EZfMNXaFaQREgxebFyoubLYB6Pf4Zn7OVCB4PYLK-KPaFg?e=ygo0er)
+
+
+
 ## 9/26
 
 ### 🎬[崩三](https://g1106-my.sharepoint.com/:v:/g/personal/video_g1106_onmicrosoft_com/EW3rshmvxRJFtA0M90pbxOAB70KgxRrXK0VpF4NvhXrlhg?e=0910eL)
