@@ -12,7 +12,7 @@
         overflow: hidden;
         text-align: center;
         transition: box-shadow 0.3s ease;
-        margin: 20px;
+        margin: 5px;
         text-decoration: none;
         color: #333;
         background-color: #fff;
@@ -34,9 +34,6 @@
         transform: scale(1.05);             
         box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);         
     }         
-    a .video-card {
-        margin: 0;
-    }
     /* 标题样式 */         
     .video-card-title {             
         padding: 10px;             
