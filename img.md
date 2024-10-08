@@ -34,7 +34,7 @@
         transform: scale(1.05);             
         box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);         
     }         
-    .video-card a {
+    a .video-card {
         margin: 0;
     }
     /* 标题样式 */         
