@@ -4,14 +4,14 @@
 
 <style>
         /* 页面整体样式 */
-        body {
+        /* body {
             background-color: #f5f5f5;
             display: flex;
             justify-content: center;
             align-items: center;
             min-height: 100vh;
             margin: 0;
-        }
+        } */
         /* 包含多个展示框的容器 */
         .video-container {
             display: flex;
