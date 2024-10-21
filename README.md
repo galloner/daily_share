@@ -12,23 +12,3 @@
 
 
 # [帖子](/pages/)
-
-```css
-int x =0
-```
-
-<!-- tabs:start -->
-
-#### **English**
-
-Hello!
-
-#### **French**
-
-Bonjour!
-
-#### **Italian**
-
-Ciao!
-
-<!-- tabs:end -->
