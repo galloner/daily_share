@@ -1099,3 +1099,31 @@ code .token {
     position: relative;
     left: auto
 }
+
+/* TOP导航 */
+.TOP{
+    font-size: 2em;
+    color: #ff3385;
+    margin-bottom: 1em;
+    border: 0.4em solid #ffe5f0;
+    background-color: #ffe5f0;
+    border-radius: 30px;
+}
+.TOP a{
+    text-decoration: none;
+}
+.TOP a:hover{
+    color: #ff3385;
+}
+
+/* 视频宽度 */
+video{
+    display: block;
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
