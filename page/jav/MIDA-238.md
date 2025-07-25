@@ -44,5 +44,4 @@
 
 ## 在线观看
 
-<video poster="https://assets-cdn.jable.tv/contents/videos_screenshots/52000/52010/preview.jpg" id="player" playsinline="" src="blob:https://jable.tv/99561bd4-14f0-495d-ae02-c8bad3f65652"></video>
-
+**点击跳转**👉[Jable.tv](https://jable.tv/videos/mida-238/)
