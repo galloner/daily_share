@@ -35,9 +35,7 @@
       }
     };
     window.$docsify = {
-      themeColor: '#ff7d9d',
-      loadSidebar: false,
-      subMaxLevel: 0,
+      themeColor: '#FF7D9D'
     };
     window.$docsify = {
       toc: {
@@ -49,27 +47,12 @@
         skin: 'default',
       },
       relativePath: true,
+      subMaxLevel: 0,
+      loadSidebar: true,
       'flexible-alerts': {
       style: 'flat'
-      },
-      progress: {
-        position: "top",
-        color: "var(--theme-color,#FF7D9D)",
-        height: "3px",
       }
-    };
-    window.$docsify = {
-      chat: {
-        title: "Dialog",
-        users: [
-          { nickname: "我", avatar: "svg/p2.png" },
-          { nickname: "AI助手", avatar: "svg/p3.png" },
-          { nickname: "Galloner", avatar: "svg/p4.png" },
-        ],
-        os: "mac",
-        animation: 100,
-      },
-    };
+    }
   </script>
   <!-- Docsify v4 -->
   <script src="docsify@4.js"></script>
@@ -90,12 +73,6 @@
   <script src="//unpkg.com/docsify-plantuml/dist/docsify-plantuml.min.js"></script>
   <!-- 提示框 -->
   <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
-  <!-- 自动空格 -->
-  <!-- <script src="//jsd-proxy.ygxz.in/npm/@sy-records/docsify-pangu@2"></script> -->
-  <!-- 进度条 -->
-  <!-- <script src="https://jsd-proxy.ygxz.in/npm/docsify-progress@latest/dist/progress.min.js"></script> -->
-  <!-- 聊天 -->
-  <script src="//jsd-proxy.ygxz.in/npm/docsify-chat/lib/docsify-chat.min.js"></script>
 </body>
 
 </html>
