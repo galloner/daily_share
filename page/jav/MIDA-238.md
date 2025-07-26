@@ -2,16 +2,22 @@
 
 > [!TIP]
 >
-> 番号：
+> ⭕番号：
 >
 > ```
 > MIDA-238
 > ```
 >
-> [磁力](magnet:?xt=urn:btih:0b0657f1bae37f7107ec97537707e0f4fcc32226&dn=[javdb.com]MIDA-238-C.torrent)：`javdb`
+> 👉[磁力](magnet:?xt=urn:btih:0b0657f1bae37f7107ec97537707e0f4fcc32226&dn=[javdb.com]MIDA-238-C.torrent)：`javdb`
 >
 > ```
 > magnet:?xt=urn:btih:0b0657f1bae37f7107ec97537707e0f4fcc32226&dn=[javdb.com]MIDA-238-C.torrent
+> ```
+>
+> 👉[在线看](https://jable.tv/videos/mida-238/)：`jable`  `VPN`
+>
+> ```
+> https://jable.tv/videos/mida-238/
 > ```
 
 ## 预览

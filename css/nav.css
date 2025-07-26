@@ -1,0 +1,112 @@
+
+  /* 紧凑扁平化网格布局 */
+  .nav-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(80px, 1fr)); /* 使用auto-fill让按钮真正缩小 */
+    gap: 8px; /* 间距更小 */
+    margin: 16px 0;
+  }
+  
+  .nav-grid .nav-btn {
+    height: 35px; /* 按钮高度更小 */
+    font-size: 13px; /* 字体更小 */
+    padding: 3px 6px; /* 内边距更小 */
+  }
+  
+  .nav-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #ffffff;
+    border-radius: 0; /* 无圆角 */
+    text-decoration: none !important; /* 强制无下划线 */
+    color: #22b14c !important; /* 字体绿色，强制优先 */
+    font-weight: bold; /* 加粗 */
+    text-align: center;
+    box-shadow: none; /* 去除阴影，防止边框模糊 */
+    border-width: 2px !important;
+    border-style: solid !important;
+    border-color: #d1d5db !important;
+    transition: none; /* 去除动画 */
+    font-family: 'Microsoft YaHei', '黑体', 'SimHei', Arial, sans-serif; /* 黑体 */
+    min-width: 0; /* 允许更小宽度 */
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  
+  .nav-btn:hover {
+    box-shadow: none !important; /* 悬停时无阴影 */
+    transform: none;
+    border-color: #888 !important; /* 悬停时边框加深 */
+    transition: none; /* 去除动画 */
+    justify-content: center; /* 悬停时依然居中 */
+    text-align: center;
+    overflow: visible;
+    white-space: normal;
+    text-overflow: unset;
+    color: #ff006a !important; /* 悬停时依然绿色 */
+    text-decoration: none !important; /* 悬停时也无下划线 */
+    background: #ffffff !important; /* 悬停时背景色不变 */
+    border-width: 2px !important;
+    border-style: solid !important;
+  }
+  
+  /* 暗色模式适配 */
+  @media (prefers-color-scheme: dark) {
+    .nav-btn {
+      background: #2a2a2a;
+      color: #eee;
+      border-color: #444c56; /* 暗色模式下更深的边框色 */
+      border-width: 2px !important;
+      border-style: solid !important;
+    }
+    
+    .nav-btn:hover {
+      background: #2a2a2a !important; /* 暗色模式下悬停背景色不变 */
+      box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+      border-color: #b5bac1 !important; /* 暗色模式下悬停边框加深 */
+      border-width: 2px !important;
+      border-style: solid !important;
+    }
+  }
+
+.nav-grid-l {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* 宽度自适应，最少2个 */
+  gap: 16px;
+  margin: 24px 0;
+}
+
+.nav-grid-l .nav-btn {
+  height: 70px; /* 更高 */
+  font-size: 20px; /* 字体更大 */
+  padding: 12px 20px; /* 空间更充裕 */
+}
+
+.nav-grid-m {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); /* 宽度自适应，最少3个 */
+  gap: 12px;
+  margin: 20px 0;
+}
+
+.nav-grid-m .nav-btn {
+  height: 55px; /* 中等高度 */
+  font-size: 17px; /* 字体适中 */
+  padding: 8px 14px;
+}
+
+.nav-grid-s {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); /* 宽度自适应，最少4个 */
+  gap: 10px;
+  margin: 16px 0;
+}
+
+.nav-grid-s .nav-btn {
+  height: 38px; /* 紧凑高度 */
+  font-size: 14px; /* 字体略小 */
+  padding: 4px 8px;
+}
