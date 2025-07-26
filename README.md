@@ -1,3 +1,9 @@
+  <div class="nav-grid-l">
+    <a href="#/" class="nav-btn">HOME</a>
+    <a href="#page/" class="nav-btn">主页</a>
+  </div>
+
+
 # Galloner Share Site Hub
 
 
@@ -8,9 +14,11 @@
 
 
 
-
+<div class="nav-group">
+<div class="nav-group-title">快速跳转</div>
 <div class="nav-grid-m">
   <a href="#page/" class="nav-btn">进入主页</a>
   <a href="//i.duangjj.eu.org" class="nav-btn" target="_blank">个人图床</a>
   <a href="//galloner.html-5.me/pan" class="nav-btn" target="_blank">OD资源站</a>
+</div>
 </div>

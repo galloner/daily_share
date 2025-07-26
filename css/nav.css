@@ -110,3 +110,35 @@
   font-size: 14px; /* 字体略小 */
   padding: 4px 8px;
 }
+
+.nav-group {
+  position: relative;
+  border: 2px solid #d1d5db;
+  border-radius: 1px;
+  margin: 24px 0;
+  padding-top: 20px; /* 给标题留空间 */
+  background: #fff;
+}
+
+.nav-group-title {
+  position: absolute;
+  top: -14px;
+  left: 20px;
+  background: #fff;
+  padding: 0 14px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #22b14c;
+  z-index: 1;
+  line-height: 28px;
+  border-radius: 6px 6px 0 0;
+  box-shadow: 0 0 0 2px #fff; /* 遮住边框形成缺口 */
+}
+
+.nav-group > .nav-grid,
+.nav-group > .nav-grid-m,
+.nav-group > .nav-grid-l,
+.nav-group > .nav-grid-s {
+  padding-left: 8px;
+  padding-right: 8px;
+}
