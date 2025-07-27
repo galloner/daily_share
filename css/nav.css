@@ -142,3 +142,78 @@
   padding-left: 8px;
   padding-right: 8px;
 }
+
+/* 版权栏样式 */
+.copyright-bar {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100vw;
+  background: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  text-align: center;
+  font-size: 18px;
+  padding: 4px 0 2px 0;
+  z-index: 9999;
+  pointer-events: none; /* 不影响点击 */
+  user-select: none;
+  letter-spacing: 2px;
+}
+
+/* 给正文底部留出空间，避免被版权栏遮挡 */
+.copyright-bar-spacer {
+  height: 100px;
+  width: 100%;
+}
+
+/* 公告栏样式 */
+.announcement-bar {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  width: 100vw;
+  background: linear-gradient(90deg, #A8E6CF 0%, #D4FC79 100%); /* 马卡龙绿渐变 */
+  color: #227755; /* 适配绿色的深色文字 */
+  text-align: center;
+  font-size: 18px;
+  padding: 4px 0 2px 0;
+  z-index: 1000;
+  pointer-events: none;
+  user-select: none;
+  letter-spacing: 2px;
+  font-weight: bold;
+  border-radius: 0 0 12px 12px;
+  box-shadow: 0 2px 12px 0 rgba(80,180,120,0.10);
+  transition: box-shadow 0.3s, background 0.5s;
+  animation: announcement-bar-pop 0.7s cubic-bezier(.68,-0.55,.27,1.55);
+}
+
+/* 公告栏emoji更大 */
+.announcement-bar {
+  line-height: 1.7;
+}
+.announcement-bar::first-letter {
+  font-size: 1.5em;
+}
+
+@keyframes announcement-bar-pop {
+  0% { transform: translateY(-40px) scale(0.95); opacity: 0; }
+  80% { transform: translateY(4px) scale(1.03); opacity: 1; }
+  100% { transform: translateY(0) scale(1); opacity: 1; }
+}
+
+/* 公告栏缓冲区，避免正文被遮挡 */
+.announcement-bar-spacer {
+  height: 50px;
+  width: 100%;
+}
+
+/* 修正sidebar-toggle按钮位置，避免被公告栏遮挡 */
+.sidebar-toggle {
+  top: 50px !important;
+}
+.sidebar{
+  top: 50px !important;
+}
