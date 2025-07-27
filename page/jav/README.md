@@ -7,7 +7,11 @@
 # Galloner Share Site Hub
 
   <div class="nav-grid-m">
-    <a href="#page/jav/MIDA-238" class="nav-btn">最新</a>
+    <a href="#page/jav/STARS-238" class="nav-btn">最新</a>
   </div>
 
+
+> [!NOTE]
+>
+> 联通网络预览图可能加载缓慢或无法加载
 
